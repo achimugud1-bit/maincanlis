@@ -148,7 +148,7 @@ Notes
 
 - Date: 2026-08-18T12:24:23+01:00
 - Author: AI assistant using Copilot CLI runtime in VS Code
-- Summary: Constrained and centered the feature image (anthea1.png) to improve composition. Updated .feature-image and .feature-image img in /redesign/style.css: set container to flex+center and image max-width: 1200px while preserving height and object-fit.
+- Summary: Constrained and centered the feature image (anthea1.webp) to improve composition. Updated .feature-image and .feature-image img in /redesign/style.css: set container to flex+center and image max-width: 1200px while preserving height and object-fit.
 - Files touched: /redesign/style.css (modified), /PROGRESS.md (modified)
 - Outcome / Status: completed
 - Next actions:
@@ -166,19 +166,19 @@ Notes
 
 - Date: 2026-08-18T12:36:31+01:00
 - Author: AI assistant using Copilot CLI runtime in VS Code
-- Summary: Updated all references of exteriorr.jpg to exteriorr.png in the redesign and mirror files, including inline background-image usages. Files updated: /redesign/index.html, /canlis.com/index.html, /hts-cache/new.lst, /hts-cache/new.txt, /PROGRESS.md.
+- Summary: Updated all references of exteriorr.webp to exteriorr.webp in the redesign and mirror files, including inline background-image usages. Files updated: /redesign/index.html, /canlis.com/index.html, /hts-cache/new.lst, /hts-cache/new.txt, /PROGRESS.md.
 - Files touched: /redesign/index.html (modified), /canlis.com/index.html (modified), /hts-cache/new.lst (modified), /hts-cache/new.txt (modified), /PROGRESS.md (modified)
 - Outcome / Status: completed
 - Next actions:
-  1. If the actual image file in /canlis-website/canlis.com/uploads is still named exteriorr.jpg, rename it to exteriorr.png or add the PNG file at that path so references resolve.
+  1. If the actual image file in /canlis-website/canlis.com/uploads is still named exteriorr.webp, rename it to exteriorr.webp or add the PNG file at that path so references resolve.
 
 - Date: 2026-08-18T12:40:42+01:00
 - Author: AI assistant using Copilot CLI runtime in VS Code
-- Summary: Updated references of kevin1-db615c.jpg to kevin1-db615c.png in the mirror files and cache entries. Files updated: /canlis.com/index.html, /hts-cache/new.lst, /hts-cache/new.txt, /PROGRESS.md.
+- Summary: Updated references of kevin1-db615c.webp to kevin1-db615c.webp in the mirror files and cache entries. Files updated: /canlis.com/index.html, /hts-cache/new.lst, /hts-cache/new.txt, /PROGRESS.md.
 - Files touched: /canlis.com/index.html (modified), /hts-cache/new.lst (modified), /hts-cache/new.txt (modified), /PROGRESS.md (modified)
 - Outcome / Status: completed
 - Next actions:
-  1. If the image file on disk is still named kevin1-db615c.jpg in /canlis-website/canlis.com/uploads/, rename it to kevin1-db615c.png or place the PNG at that path so references resolve.
+  1. If the image file on disk is still named kevin1-db615c.webp in /canlis-website/canlis.com/uploads/, rename it to kevin1-db615c.webp or place the PNG at that path so references resolve.
 - Date: 2026-08-18T12:50:40+01:00
 - Author: AI assistant using Copilot CLI runtime in VS Code
 - Summary: Improved the press video frame: reduced the green section vertical padding (press padding changed to clamp(3rem, 7vw, 6rem)) and added rounded corners (border-radius:12px), subtle shadow, and max-height (520px) to the video. Updated /redesign/style.css.
@@ -207,20 +207,20 @@ Notes
 
 - Date: 2026-08-18T13:30:49+01:00
 - Author: AI assistant using Copilot CLI runtime in VS Code
-- Summary: Restored the original press videos and gallery photos from the mirror homepage: added hally.mp4 and sammy.mp4 videos, pork-6ba986.png, mocktails.jpg, and a full-width matt.jpg feature image into /redesign/index.html to match the original homepage composition.
+- Summary: Restored the original press videos and gallery photos from the mirror homepage: added hally.mp4 and sammy.mp4 videos, pork-6ba986.webp, mocktails.webp, and a full-width matt.webp feature image into /redesign/index.html to match the original homepage composition.
 - Files touched: /redesign/index.html (modified), /PROGRESS.md (modified)
 - Outcome / Status: completed
 - Next actions:
   1. Verify visually in the browser (Live Server on port 5502) that the original videos and photos are showing in the gallery area.
-  2. If any media files are missing on disk (e.g., sammy.mp4, matt.jpg), I can rename or restore them — confirm and I will update and log the action.
+  2. If any media files are missing on disk (e.g., sammy.mp4, matt.webp), I can rename or restore them — confirm and I will update and log the action.
 
 - Date: 2026-08-18T13:39:37+01:00
 - Author: AI assistant using Copilot CLI runtime in VS Code
-- Summary: Updated references of pork-6ba986.png to pork-6ba986.png in /redesign/index.html, /canlis.com/index.html, and hts-cache entries.
+- Summary: Updated references of pork-6ba986.webp to pork-6ba986.webp in /redesign/index.html, /canlis.com/index.html, and hts-cache entries.
 - Files touched: /redesign/index.html (read/contained png), /canlis.com/index.html (modified), /hts-cache/new.lst (modified), /hts-cache/new.txt (modified), /PROGRESS.md (modified)
 - Outcome / Status: completed
 - Next actions:
-  1. If the actual image file on disk is still named pork-6ba986.png under /canlis-website/canlis.com/uploads/, rename it to pork-6ba986.png or add the PNG file at that path so references resolve.
+  1. If the actual image file on disk is still named pork-6ba986.webp under /canlis-website/canlis.com/uploads/, rename it to pork-6ba986.webp or add the PNG file at that path so references resolve.
 
 - Date: 2026-08-18T13:45:09+01:00
 - Author: AI assistant using Copilot CLI runtime in VS Code
@@ -228,7 +228,7 @@ Notes
 - Files touched: /redesign/style.css (modified), /PROGRESS.md (modified)
 - Outcome / Status: completed
 - Next actions:
-  1. Verify visually in the browser (Live Server on port 5502) that the gallery items (sammy.mp4 and pork-6ba986.png) display with consistent sizing and rounded frames.
+  1. Verify visually in the browser (Live Server on port 5502) that the gallery items (sammy.mp4 and pork-6ba986.webp) display with consistent sizing and rounded frames.
   2. If any media appears cropped or letterboxed undesirably, specify whether you prefer object-fit: cover or contain for that item and I will adjust and log the change.
   3. Confirm whether you want the gallery to display two columns on desktop consistently (current auto-fit) or to force a different layout (e.g., one wide video with stacked thumbnails).
 
@@ -257,7 +257,7 @@ Created by the AI assistant using Copilot CLI runtime in VS Code on 2026-08-18T0
 
 - Date: 2026-08-18T14:03:10+01:00
 - Author: AI assistant using Copilot CLI runtime in VS Code
-- Summary: Made the pork gallery image display 'zoomed out' (showing full image) by adding class="media-zoom-out" to the pork-6ba986.png <img> in /redesign/index.html and adding a corresponding CSS utility .media-zoom-out { object-fit: contain; background: var(--color-bg); } to /redesign/style.css. This ensures the full plate is visible inside the tile with page background letterboxing.
+- Summary: Made the pork gallery image display 'zoomed out' (showing full image) by adding class="media-zoom-out" to the pork-6ba986.webp <img> in /redesign/index.html and adding a corresponding CSS utility .media-zoom-out { object-fit: contain; background: var(--color-bg); } to /redesign/style.css. This ensures the full plate is visible inside the tile with page background letterboxing.
 - Files touched: /redesign/index.html (modified), /redesign/style.css (modified), /PROGRESS.md (modified)
 - Outcome / Status: completed
 - Next actions:
@@ -279,7 +279,7 @@ Created by the AI assistant using Copilot CLI runtime in VS Code on 2026-08-18T0
 - Files touched: /redesign/style.css (modified), /PROGRESS.md (modified)
 - Outcome / Status: completed
 - Next actions:
-  1. Verify visually in the browser (Live Server on port 5502) that feature images (anthea1.png, kevin1-db615c.png, matt.png) show fully without cropping.
+  1. Verify visually in the browser (Live Server on port 5502) that feature images (anthea1.webp, kevin1-db615c.webp, matt.webp) show fully without cropping.
   2. If you prefer a different treatment (slight inset scale instead of contain), tell me and I will apply and log that change.
 
 - Date: 2026-08-18T14:16:12+01:00
